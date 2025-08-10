@@ -1,0 +1,93 @@
+{
+    "manufacturer": "Espressif",
+    "name": "ESP32-C6 Flash Interface",
+    "pins": {
+        "0a96cce9-4a29-4a16-9551-619756a51098": {
+            "alt_names": {
+                "1b2c6531-fe47-4054-a94e-7ce2d1121f97": {
+                    "direction": "bidirectional",
+                    "name": "GPIO24"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SPICS0",
+            "swap_group": 0
+        },
+        "0b9b2936-bc93-4fe0-891d-0f0549bf4fd9": {
+            "alt_names": {
+                "1b2c6531-fe47-4054-a94e-7ce2d1121f97": {
+                    "direction": "bidirectional",
+                    "name": "GPIO29"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "SPICLK",
+            "swap_group": 0
+        },
+        "334a7473-a406-401c-9594-214dd174066e": {
+            "alt_names": {
+                "1b2c6531-fe47-4054-a94e-7ce2d1121f97": {
+                    "direction": "bidirectional",
+                    "name": "SPIWP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO26",
+            "swap_group": 0
+        },
+        "480f1817-36be-4687-b469-ede6a88f612d": {
+            "alt_names": {
+                "1b2c6531-fe47-4054-a94e-7ce2d1121f97": {
+                    "direction": "bidirectional",
+                    "name": "GPIO30"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPID",
+            "swap_group": 0
+        },
+        "4d516305-e874-4db0-93d7-0a2265724f57": {
+            "alt_names": {
+                "1b2c6531-fe47-4054-a94e-7ce2d1121f97": {
+                    "direction": "bidirectional",
+                    "name": "GPIO25"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SPIQ",
+            "swap_group": 0
+        },
+        "c0ac874f-c0e4-4885-bbf5-3024a89acb44": {
+            "alt_names": {
+                "1b2c6531-fe47-4054-a94e-7ce2d1121f97": {
+                    "direction": "bidirectional",
+                    "name": "SPIHD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO28",
+            "swap_group": 0
+        },
+        "c12d8f2e-5316-4bc5-9f83-7a826d4c89ae": {
+            "alt_names": {
+                "1b2c6531-fe47-4054-a94e-7ce2d1121f97": {
+                    "direction": "bidirectional",
+                    "name": "GPIO27"
+                }
+            },
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD_SPI",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "13d12cda-260a-4972-af3e-6cc0241269a0",
+    "version": 1
+}

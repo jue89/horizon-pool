@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Espressif",
+    "name": "ESP32-C6 Base",
+    "pins": {
+        "08b382c1-8943-4573-9185-5efa7b7b9888": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA3P3",
+            "swap_group": 0
+        },
+        "2c80a98e-ddfa-43a6-a57d-9970648ed5d0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CHIP_PU",
+            "swap_group": 0
+        },
+        "4107b4a3-bc54-4c50-8bc8-968ad3108bfa": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL_P",
+            "swap_group": 0
+        },
+        "56473fb0-aa54-4661-b776-245c7f4d9618": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA1",
+            "swap_group": 0
+        },
+        "982b3c1b-0480-43c5-9c5c-4bc913b9d52c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDPST1",
+            "swap_group": 0
+        },
+        "a90ed6e6-a7f4-4852-b1ab-7d9bc495ac7c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "b4422264-1a59-4db3-ac19-29c98ed9586a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ANT",
+            "swap_group": 0
+        },
+        "cfaa9077-0d1c-49cf-83c4-def1137a0826": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA2",
+            "swap_group": 0
+        },
+        "e8fd3e7f-2107-43ed-b46c-233dd284b9cb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDPST2",
+            "swap_group": 0
+        },
+        "ecc14406-2b2c-4313-9eae-1a93a6a5cbb0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL_N",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5773f94e-915f-4b3f-b7a5-071b09891f4c"
+}

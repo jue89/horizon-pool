@@ -1,0 +1,32 @@
+{
+    "gates": {
+        "10ef94de-a4c2-49d8-ad5e-68bcd49d7578": {
+            "name": "GPIO Bank",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "19401128-b516-47ff-8749-24f1f118d922"
+        },
+        "26e0c537-01ef-463e-abea-661ba209a62e": {
+            "name": "Base",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "5773f94e-915f-4b3f-b7a5-071b09891f4c"
+        },
+        "57083c3d-d09e-42b4-9cd6-6ff191c4a718": {
+            "name": "Flash Interface",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "13d12cda-260a-4972-af3e-6cc0241269a0"
+        }
+    },
+    "manufacturer": "Espressif",
+    "name": "ESP32-C6",
+    "prefix": "U",
+    "tags": [
+        "esp",
+        "ic",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "d6333655-fc0d-416f-a5ef-79ba9e02da10"
+}
