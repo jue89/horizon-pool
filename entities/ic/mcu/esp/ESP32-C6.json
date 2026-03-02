@@ -8,7 +8,7 @@
         }
     },
     "manufacturer": "Espressif",
-    "name": "ESP32C6",
+    "name": "ESP32-C6",
     "prefix": "U",
     "tags": [
         "esp",

@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "ESP32C6"
+        "ESP32-C6"
     ],
     "datasheet": [
         false,
