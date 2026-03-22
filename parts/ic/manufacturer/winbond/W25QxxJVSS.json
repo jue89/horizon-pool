@@ -21,9 +21,9 @@
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Windbond"
+        "Winbond"
     ],
-    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "model": "00000000-0000-0000-0000-000000000000",
     "package": "757c13fb-0721-4176-8c11-38f6d3948805",
     "pad_map": {
         "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
